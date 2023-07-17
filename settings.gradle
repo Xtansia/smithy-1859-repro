@@ -8,3 +8,5 @@
  */
 
 rootProject.name = 'smithy-repro'
+
+includeBuild('smithy-src')

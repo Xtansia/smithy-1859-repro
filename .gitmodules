@@ -1,0 +1,3 @@
+[submodule "smithy-src"]
+	path = smithy-src
+	url = https://github.com/smithy-lang/smithy.git
